@@ -14,5 +14,6 @@ This includes:
    - Behaviours and/or Keypoint Moseq sylables as rasters, subselection possible from a dropdown list
    - Calcium imaging traces (the ROIs on the movies possess callback that allow to select the neurons to display)
   
-![image](https://github.com/user-attachments/assets/71b7c66f-d074-4949-a50a-76651562f199)
+![image](https://github.com/user-attachments/assets/dcd4444f-4b70-4c15-99a5-f2e0e13e7a95)
+
 
